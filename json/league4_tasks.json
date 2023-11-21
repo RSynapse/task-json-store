@@ -7564,10 +7564,6 @@
       {
         "skill": "Combat",
         "level": "40"
-      },
-      {
-        "skill": "Overall",
-        "level": "40"
       }
     ],
     "other": "",
@@ -12451,10 +12447,6 @@
     "skills": [
       {
         "skill": "Combat",
-        "level": "40"
-      },
-      {
-        "skill": "Overall",
         "level": "40"
       }
     ],
