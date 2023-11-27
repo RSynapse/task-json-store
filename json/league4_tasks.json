@@ -11644,7 +11644,7 @@
   },
   {
     "id": "1197",
-    "name": "Defeat the Kalphite Queen 100 Times",
+    "name": "Defeat the Kalphite Queen 50 Times",
     "description": "Defeat the Kalphite Queen in the Kalphite Lair 50 times.",
     "clientSortId": "892",
     "skills": [],
@@ -11654,7 +11654,7 @@
   },
   {
     "id": "1198",
-    "name": "Defeat the Kalphite Queen 250 Times",
+    "name": "Defeat the Kalphite Queen 150 Times",
     "description": "Defeat the Kalphite Queen in the Kalphite Lair 150 times.",
     "clientSortId": "893",
     "skills": [],
