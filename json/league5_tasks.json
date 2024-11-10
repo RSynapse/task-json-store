@@ -22,7 +22,7 @@
     "id": "15",
     "name": "Eat some Purple Sweets",
     "description": "Eat some Purple Sweets.",
-    "clientSortId": "9",
+    "clientSortId": "9001",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -39,7 +39,7 @@
     "id": "165",
     "name": "Gain a Unique Item From an Easy Clue",
     "description": "Gain a unique item from an Easy Clue Scroll Reward Casket.",
-    "clientSortId": "10",
+    "clientSortId": "9002",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -56,7 +56,7 @@
     "id": "175",
     "name": "Gain a Unique Item From a Beginner Clue",
     "description": "Gain a unique item from a Beginner Clue Scroll Reward Casket.",
-    "clientSortId": "11",
+    "clientSortId": "9003",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -79,29 +79,29 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3237,
+      "y": 3459,
       "z": 0
     },
     "requiredItems": [],
-    "NPC": "Enemy NPC"
+    "NPC": "Moss Giant"
   },
   {
     "id": "219",
     "name": "Defeat a Goblin",
     "description": "Defeat a Goblin. After all, this still isn't the Goblin League.",
-    "clientSortId": "13",
+    "clientSortId": "1",
     "skills": [],
     "other": "",
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3251,
+      "y": 3226,
       "z": 0
     },
     "requiredItems": [],
-    "NPC": "Enemy NPC"
+    "NPC": "Goblin"
   },
   {
     "id": "220",
@@ -113,12 +113,12 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3264,
+      "y": 3392,
       "z": 0
     },
     "requiredItems": [],
-    "NPC": "Enemy NPC"
+    "NPC": "Guard"
   },
   {
     "id": "313",
@@ -135,8 +135,8 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3243,
+      "y": 3209,
       "z": 0
     },
     "requiredItems": [],
@@ -168,7 +168,7 @@
     "id": "316",
     "name": "Bury Some Bones",
     "description": "Bury any kind of Bones.",
-    "clientSortId": "19",
+    "clientSortId": "2",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -193,8 +193,8 @@
     "tier": "Easy",
     "area": "Wilderness",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3121,
+      "y": 3626,
       "z": 0
     },
     "requiredItems": [],
@@ -204,7 +204,7 @@
     "id": "435",
     "name": "1 Easy Clue Scroll",
     "description": "Open a Reward casket for completing an easy clue scroll.",
-    "clientSortId": "26",
+    "clientSortId": "9004",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -221,7 +221,7 @@
     "id": "436",
     "name": "25 Easy Clue Scrolls",
     "description": "Open 25 Reward caskets for completing easy clue scrolls.",
-    "clientSortId": "27",
+    "clientSortId": "9005",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -238,7 +238,7 @@
     "id": "442",
     "name": "1 Medium Clue Scroll",
     "description": "Open a Reward casket for completing a medium clue scroll.",
-    "clientSortId": "28",
+    "clientSortId": "9006",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -255,7 +255,7 @@
     "id": "495",
     "name": "Open the Leagues Menu",
     "description": "Open the Leagues Menu found within the Journal Panel.",
-    "clientSortId": "30",
+    "clientSortId": "3",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -272,7 +272,7 @@
     "id": "496",
     "name": "Complete the Leagues Tutorial",
     "description": "Complete the Leagues Tutorial and begin your adventure.",
-    "clientSortId": "31",
+    "clientSortId": "4",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -289,7 +289,7 @@
     "id": "497",
     "name": "Achieve Your First Level Up",
     "description": "Level up any of your skills for the first time.",
-    "clientSortId": "32",
+    "clientSortId": "5",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -306,7 +306,7 @@
     "id": "498",
     "name": "Achieve Your First Level 5",
     "description": "Reach level 5 in any skill (not including Agility, Hitpoints and Runecraft).",
-    "clientSortId": "33",
+    "clientSortId": "6",
     "skills": [],
     "other": "",
     "tier": "Easy",
@@ -459,18 +459,18 @@
     "id": "579",
     "name": "Pickpocket a Citizen",
     "description": "Pickpocket a Man or a Woman.",
-    "clientSortId": "42",
+    "clientSortId": "7",
     "skills": [],
     "other": "",
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3221,
+      "y": 3218,
       "z": 0
     },
     "requiredItems": [],
-    "NPC": "Target NPC"
+    "NPC": "Man"
   },
   {
     "id": "580",
@@ -486,8 +486,8 @@
       "y": 0,
       "z": 0
     },
-    "requiredItems": [],
-    "NPC": null
+    "requiredItems": ["Coin Pouch"],
+    "NPC": "Man"
   },
   {
     "id": "581",
@@ -521,11 +521,11 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3197,
+      "y": 3231,
       "z": 0
     },
-    "requiredItems": [],
+    "requiredItems": ["Rake"],
     "NPC": null
   },
   {
@@ -577,12 +577,12 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3204,
+      "y": 3241,
       "z": 0
     },
     "requiredItems": [
-      "Logs"
+      "Bronze axe"
     ],
     "NPC": null
   },
@@ -601,13 +601,12 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3204,
+      "y": 3241,
       "z": 0
     },
     "requiredItems": [
-      "Axe",
-      "Logs"
+      "Steel axe"
     ],
     "NPC": null
   },
@@ -697,11 +696,11 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3228,
+      "y": 3149,
       "z": 0
     },
-    "requiredItems": [],
+    "requiredItems": ["Bronze pickaxe"],
     "NPC": null
   },
   {
@@ -719,13 +718,12 @@
     "tier": "Easy",
     "area": "General",
     "worldPosition": {
-      "x": 0,
-      "y": 0,
+      "x": 3228,
+      "y": 3149,
       "z": 0
     },
     "requiredItems": [
-      "Axe",
-      "Pickaxe"
+      "Bronze pickaxe"
     ],
     "NPC": null
   },
