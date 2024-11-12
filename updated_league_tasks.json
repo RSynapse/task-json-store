@@ -1,0 +1,2283 @@
+[
+  {
+    "id": "495",
+    "name": "Open the Leagues Menu",
+    "description": "Open the Leagues Menu found within the Journal Panel.",
+    "clientSortId": "1",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "496",
+    "name": "Complete the Leagues Tutorial",
+    "description": "Complete the Leagues Tutorial and begin your adventure.",
+    "clientSortId": "2",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_3",
+    "name": "Claim items from sage ",
+    "description": "Claim items from sage ",
+    "clientSortId": "3",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_4",
+    "name": "Settings adjust",
+    "description": "Turn off roof & disable level up interface",
+    "clientSortId": "4",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "579",
+    "name": "Pickpocket a Citizen",
+    "description": "Pickpocket a Man or a Woman.",
+    "clientSortId": "5",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "Citizen"
+  },
+  {
+    "id": "580",
+    "name": "Open 28 Coin Pouches At Once",
+    "description": "Open 28 Coin Pouches at once.",
+    "clientSortId": "6",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Coin Pouch"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "497",
+    "name": "Achieve Your First Level Up",
+    "description": "Level up any of your skills for the first time.",
+    "clientSortId": "7",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "498",
+    "name": "Achieve Your First Level 5",
+    "description": "Reach level 5 in any skill (not including Agility, Hitpoints and Runecraft).",
+    "clientSortId": "8",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "499",
+    "name": "Achieve Your First Level 10",
+    "description": "GET 15 THIEVING HERE, 4k xp ~ 100 pickpockets",
+    "clientSortId": "9",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "219",
+    "name": "Defeat a Goblin",
+    "description": "Defeat a Goblin",
+    "clientSortId": "10",
+    "skills": [],
+    "other": "Get 2 att, 2 str, 5 def! Need 5 cmbt for slayer task and steel helm.",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "Goblin"
+  },
+  {
+    "id": "316",
+    "name": "Bury Some Bones",
+    "description": "Bury any kind of Bones.",
+    "clientSortId": "11",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Bones"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "717",
+    "name": "Visit Death's Domain",
+    "description": "Visit Death's Domain.",
+    "clientSortId": "12",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1645",
+    "name": "Dance in a graveyard",
+    "description": "Dance in a graveyard",
+    "clientSortId": "13",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_14",
+    "name": "Supply Run",
+    "description": "Buy pot, bucket, hammer, shears, chisel, knife, steel axe",
+    "clientSortId": "14",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_15",
+    "name": "Grab two onions",
+    "description": "(This is for yellow dye needed later to dye red cape orange)",
+    "clientSortId": "15",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1673",
+    "name": "Chop a log from a potato tree",
+    "description": "Chop a log from a tree that is curiously in a potato field.",
+    "clientSortId": "16",
+    "skills": [],
+    "other": "{{Map|x=3147|y=3273|type=maplink|mtype=pin|text=Lonely tree}}",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3147,
+      "y": 3273,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "822",
+    "name": "Enter Draynor Manor",
+    "description": "Enter Draynor Manor through the front door.",
+    "clientSortId": "17",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3086,
+      "y": 3250,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1671",
+    "name": "Get a chair to follow you",
+    "description": "Get a chair to follow you",
+    "clientSortId": "18",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_19",
+    "name": "Cry in wheat field",
+    "description": "Cry in wheat field",
+    "clientSortId": "19",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1508",
+    "name": "Make some Flour",
+    "description": "Make some Flour in a windmill.",
+    "clientSortId": "20",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1663",
+    "name": "Milk a cow",
+    "description": "Milk a cow in Lumbridge",
+    "clientSortId": "21",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3222,
+      "y": 3218,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_22",
+    "name": "Grab an egg for cook assist",
+    "description": "Grab an egg for cook assist",
+    "clientSortId": "22",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_23",
+    "name": "Use Range in Lumbridge Castle",
+    "description": "Use the Range in Lumbridge Castle to cook some food.",
+    "clientSortId": "23",
+    "skills": [],
+    "other": "Completion of Cook's Assistant",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_24",
+    "name": "Complete cooks asisstant",
+    "description": "Complete cooks asisstant",
+    "clientSortId": "24",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "639",
+    "name": "Spin a Ball of Wool",
+    "description": "Use a Spinning Wheel to spin a Ball of Wool.",
+    "clientSortId": "25",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "809",
+    "name": "Complete Sheep Shearer",
+    "description": "Complete the Sheep Shearer quest.",
+    "clientSortId": "26",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_27",
+    "name": "Supply Run Pt 2",
+    "description": "Buy wines @ Draynor for food, also purchase barely seeds  for later task.",
+    "clientSortId": "27",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1669",
+    "name": "Have Ned make you some rope",
+    "description": "Have Ned make you some rope in Draynor Village",
+    "clientSortId": "28",
+    "skills": [],
+    "other": "4 balls of wool",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3086,
+      "y": 3250,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1665",
+    "name": "Insult Aggie the Witch",
+    "description": "Insult Aggie the Witch in Draynor Village",
+    "clientSortId": "29",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3086,
+      "y": 3250,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "Aggie the Witch"
+  },
+  {
+    "id": "696",
+    "name": "Complete a Rooftop Agility Course",
+    "description": "Complete a lap of any Rooftop Agility Course.",
+    "clientSortId": "30",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "694",
+    "name": "Obtain a Mark of Grace",
+    "description": "Obtain a Mark of Grace from any Rooftop Agility Course.",
+    "clientSortId": "31",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "768",
+    "name": "Complete the Draynor Agility Course",
+    "description": "Complete a lap of the Draynor Rooftop Agility Course.",
+    "clientSortId": "32",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3086,
+      "y": 3250,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "769",
+    "name": "Complete 10 Laps of the Draynor Agility Course",
+    "description": "Complete 10 laps of the Draynor Rooftop Agility Course.",
+    "clientSortId": "33",
+    "skills": [],
+    "other": "",
+    "tier": "Medium",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3086,
+      "y": 3250,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "817",
+    "name": "Use a Fairy Ring",
+    "description": "Use any Fairy Ring (go to swamp)",
+    "clientSortId": "34",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "803",
+    "name": "Enter Zanaris",
+    "description": "Enter the lost city of Zanaris.",
+    "clientSortId": "35",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_36",
+    "name": "Go to Edgeville (DKR)",
+    "description": "Go to Edgeville (DKR)",
+    "clientSortId": "36",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_37",
+    "name": "Stronghold Security f/10k",
+    "description": "Stronghold Security f/10k",
+    "clientSortId": "37",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_38",
+    "name": "Wear fancy boots",
+    "description": "Wear fancy boots",
+    "clientSortId": "38",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_39",
+    "name": "Buy Steel Full helm",
+    "description": "Barb helm shop",
+    "clientSortId": "39",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_40",
+    "name": "Buy fire staff",
+    "description": "Equip elemental staff",
+    "clientSortId": "40",
+    "skills": [],
+    "other": "1.5K",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_41",
+    "name": "Buy a red cape",
+    "description": "This is so we can dye it orange later for task.",
+    "clientSortId": "41",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "766",
+    "name": "Steal From the Varrock Tea Stall",
+    "description": "Steal from the Tea Stall in Varrock.",
+    "clientSortId": "42",
+    "skills": [
+      {
+        "skill": "Thieving",
+        "level": "5"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3210,
+      "y": 3424,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_43",
+    "name": "Purchase runes + rune mysteries",
+    "description": "Buy strike runes",
+    "clientSortId": "43",
+    "skills": [],
+    "other": "800 airs, 400 minds, 20 water, 20 earth",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "220",
+    "name": "Defeat a Guard",
+    "description": "Defeat a Guard + Pickup it's bones",
+    "clientSortId": "44",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "Guard"
+  },
+  {
+    "id": "807",
+    "name": "Pet a Stray Dog in Varrock",
+    "description": "Pet a Stray Dog in Varrock.",
+    "clientSortId": "45",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3210,
+      "y": 3424,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "Stray Dog"
+  },
+  {
+    "id": "NEW_46",
+    "name": "Feed Stray Dog bones",
+    "description": "Feed Stray Dog bones",
+    "clientSortId": "46",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_47",
+    "name": "Purchase POH",
+    "description": "1k GP",
+    "clientSortId": "47",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1679",
+    "name": "Have Elsie tell you a story",
+    "description": "Have Elsie tell you a story in Varrock",
+    "clientSortId": "48",
+    "skills": [],
+    "other": "A cup of tea",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3210,
+      "y": 3424,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1690",
+    "name": "Slash a web in varrock sewers",
+    "description": "Slash a web in Varrock sewers",
+    "clientSortId": "49",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3210,
+      "y": 3424,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "595",
+    "name": "Chop Some Logs",
+    "description": "Chop any kind of logs.",
+    "clientSortId": "50",
+    "skills": [
+      {
+        "skill": "Woodcutting",
+        "level": "1"
+      }
+    ],
+    "other": "Any axe",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Bronze axe"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "679",
+    "name": "Burn Some Normal Logs",
+    "description": "Burn some Normal Logs.",
+    "clientSortId": "51",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Logs"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "NEW_52",
+    "name": "Chop logs with a Steel Axe",
+    "description": "Chop Some logs with a Steel Axe",
+    "clientSortId": "52",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "680",
+    "name": "Burn Some Oak Logs",
+    "description": "Burn some Oak Logs.",
+    "clientSortId": "53",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "15"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Logs"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "616",
+    "name": "Fletch Some Arrow Shafts",
+    "description": "Fletch some Arrow Shafts.",
+    "clientSortId": "54",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_55",
+    "name": "Pick 3 redberry's",
+    "description": "This is for red dye so we can red cape orange w/yellow dye mix.",
+    "clientSortId": "55",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_56",
+    "name": "Fletch 1000 arrow shafts (OPTIONAL)",
+    "description": "Fletch 1000 arrow shafts",
+    "clientSortId": "56",
+    "skills": [
+      {
+        "skill": "1",
+        "level": "1"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "666",
+    "name": "Turn any Logs Into a Plank",
+    "description": "Use a Sawmill to turn Logs into a Plank.",
+    "clientSortId": "57",
+    "skills": [],
+    "other": "1 Logs, 100gp",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Logs"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "NEW_58",
+    "name": "Go to Fossil Island",
+    "description": "(already over here, may as well.)",
+    "clientSortId": "58",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_59",
+    "name": "Pet dog on fossil island",
+    "description": "(already over here, may as well.)",
+    "clientSortId": "59",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "609",
+    "name": "Mine some Copper Ore",
+    "description": "Mine some Copper Ore.",
+    "clientSortId": "60",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Bronze pickaxe"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "1729",
+    "name": "Mine 10 Tin Ore",
+    "description": "Mine 10 Tin Ore",
+    "clientSortId": "61",
+    "skills": [],
+    "other": "Any pickaxe",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_62",
+    "name": "Rake a Farming Patch * 2 f/3 farm @ Champions guild",
+    "description": "Rake any Farming patch, pay the guy near tree in varrock for rake",
+    "clientSortId": "62",
+    "skills": [
+      {
+        "skill": "1",
+        "level": "1"
+      }
+    ],
+    "other": "Rake + barely seeds",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_63",
+    "name": "Plant hops running toward draynor AND pay farmer the 3 compost for task.",
+    "description": "Talk to farmer and purchase 4X compost as well + seed dibbler",
+    "clientSortId": "63",
+    "skills": [],
+    "other": "5* total rake weeds and compost add will give 3 farm.",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "500",
+    "name": "Achieve Your First Level 20",
+    "description": "Reach level 20 in any skill.",
+    "clientSortId": "64",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_65",
+    "name": "TP back to lumbridge with home tele, head west of lumbridge, stop by HAM hideout, head to wizard's tower to finish rune mysteries and then up to draynor, steal wines till master farmer here.",
+    "description": "TP back to lumbridge with home tele, head west of lumbridge, stop by HAM hideout, head to wizard's tower to finish rune mysteries and then up to draynor, steal wines till master farmer here.",
+    "clientSortId": "65",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "739",
+    "name": "Cast Home Teleport",
+    "description": "Cast the Home Teleport spell.",
+    "clientSortId": "66",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Runes"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "763",
+    "name": "Pickpocket a H.A.M. Member",
+    "description": "Pickpocket any H.A.M. member at their hideout to 38 thieve.",
+    "clientSortId": "67",
+    "skills": [
+      {
+        "skill": "Thieving",
+        "level": "15"
+      }
+    ],
+    "other": "Get a guam and sword and cowhide -> Pickpocket to 38.",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "H.A.M. Member"
+  },
+  {
+    "id": "NEW_68",
+    "name": "Clean a Guam",
+    "description": "Clean a Guam",
+    "clientSortId": "68",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "801",
+    "name": "Complete Rune Mysteries",
+    "description": "Complete the Rune Mysteries quest.",
+    "clientSortId": "69",
+    "skills": [],
+    "other": "This does auto-complete w/desert.",
+    "tier": "Medium",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "674",
+    "name": "Locate a Runecrafting Altar With a Talisman",
+    "description": "Use any talisman to check the location of a Runecrafting Altar.",
+    "clientSortId": "70",
+    "skills": [],
+    "other": "Completion of  Rune Mysteries",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "672",
+    "name": "Visit the Rune Essence Mine",
+    "description": "Visit the Rune Essence Mine.",
+    "clientSortId": "71",
+    "skills": [],
+    "other": "Completion of  Rune Mysteries",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_72",
+    "name": "Mine 25 Essence",
+    "description": "Mine 25 Essence",
+    "clientSortId": "72",
+    "skills": [],
+    "other": "Completion of  Rune Mysteries",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "648",
+    "name": "Catch a Shrimp",
+    "description": "Catch Raw Shrimp while Fishing.",
+    "clientSortId": "73",
+    "skills": [],
+    "other": " (save some shrimp to use in lumby later)",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Fishing Equipment"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "650",
+    "name": "Catch an Anchovy",
+    "description": "Catch a Raw Anchovy whilst Fishing.",
+    "clientSortId": "74",
+    "skills": [
+      {
+        "skill": "Fishing",
+        "level": "15"
+      }
+    ],
+    "other": "Get 20 fishing so you can fish & karajama later.",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Fishing Equipment"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "603",
+    "name": "Burn Some Food",
+    "description": "Burn any kind of food while trying to cook it.",
+    "clientSortId": "75",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Logs"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "604",
+    "name": "Successfully Cook 5 Pieces of Food",
+    "description": "Cook 5 pieces of food in a row without burning them.",
+    "clientSortId": "76",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Logs"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "501",
+    "name": "Achieve Your First Level 30",
+    "description": "Reach level 30 in any skill.",
+    "clientSortId": "77",
+    "skills": [],
+    "other": " ",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1631",
+    "name": "Complete a task for the Wise Old Man",
+    "description": "Complete a task for the Wise Old Man in Draynor",
+    "clientSortId": "78",
+    "skills": [],
+    "other": "",
+    "tier": "Medium",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3086,
+      "y": 3250,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "Wise Old Man"
+  },
+  {
+    "id": "598",
+    "name": "Chop 100 Willow Logs",
+    "description": "Chop 100 Willow Logs from Willow Trees. (OPTIONAL)",
+    "clientSortId": "79",
+    "skills": [
+      {
+        "skill": "Woodcutting",
+        "level": "30"
+      }
+    ],
+    "other": "",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Logs"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "682",
+    "name": "Burn 100 Willow Logs",
+    "description": "Burn 100 Willow Logs. (OPTIONAL)",
+    "clientSortId": "80",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "30"
+      }
+    ],
+    "other": "30 if Woodcutting",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Logs"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "1573",
+    "name": "Chop some Rising Roots",
+    "description": "Chop some Rising Roots spawned via Forestry (OPTIONAL)",
+    "clientSortId": "81",
+    "skills": [],
+    "other": "Nearby players should hopefully spawn the events pretty often, keep an axe while fishing incase they spawn",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1574",
+    "name": "Complete the Struggling Sapling event",
+    "description": "Complete the Struggling Sapling event spawned via Forestry (OPTIONAL)",
+    "clientSortId": "82",
+    "skills": [],
+    "other": "Nearby players should hopefully spawn the events pretty often, keep an axe while fishing incase they spawn",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "281",
+    "name": "Pickpocket a Master Farmer",
+    "description": "Successfully pickpocket from a master farmer.",
+    "clientSortId": "83",
+    "skills": [
+      {
+        "skill": "Thieving",
+        "level": "38"
+      }
+    ],
+    "other": "Pickpocket to 40 thieve for guards later.",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "Master Farmer"
+  },
+  {
+    "id": "NEW_84",
+    "name": "Pickpocket a Rannar",
+    "description": "Pickpocket a Rannar",
+    "clientSortId": "84",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_85",
+    "name": "tp to brimhaven, Keep a sardine for gertrude's cat later",
+    "description": "tp to brimhaven, Keep a sardine for gertrude's cat later",
+    "clientSortId": "85",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_86",
+    "name": "Kill moss giant",
+    "description": "NW of brimhaven mossy island.",
+    "clientSortId": "86",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1505",
+    "name": "Buy Something From Trader Crewmembers",
+    "description": "Buy something from the Trader Crewmembers.",
+    "clientSortId": "87",
+    "skills": [],
+    "other": "buy a torch, glass blow + soda ash and sand as much as possible",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1002",
+    "name": "Pick a Pineapple on Karamja",
+    "description": "Pick a Pineapple on Karamja.",
+    "clientSortId": "88",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "Karamja",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1006",
+    "name": "Enter the Brimhaven Dungeon",
+    "description": "Enter the Brimhaven Dungeon.",
+    "clientSortId": "89",
+    "skills": [
+      {
+        "skill": "Woodcutting",
+        "level": "10"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "Karamja",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "964",
+    "name": "Catch a Karambwanji",
+    "description": "Catch a Karambwanji on Karamja.",
+    "clientSortId": "90",
+    "skills": [
+      {
+        "skill": "Fishing",
+        "level": "5"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "Karamja",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "681",
+    "name": "Light a Torch",
+    "description": "Light a Torch.",
+    "clientSortId": "91",
+    "skills": [],
+    "other": "Buy at general store by dungeon",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_92",
+    "name": "Take the cart to shilo",
+    "description": "| Buy bait, Feathers, Bronze bars",
+    "clientSortId": "92",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "649",
+    "name": "Catch a Herring",
+    "description": "Catch a Raw Herring whilst Fishing.",
+    "clientSortId": "93",
+    "skills": [
+      {
+        "skill": "Fishing",
+        "level": "10"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Fishing Equipment"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "1632",
+    "name": "Use a herring on a tree",
+    "description": "Not quite of the crimson variety.",
+    "clientSortId": "94",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "965",
+    "name": "Catch a Salmon on Karamja",
+    "description": "Catch a Salmon on Karamja.",
+    "clientSortId": "95",
+    "skills": [
+      {
+        "skill": "Fishing",
+        "level": "30"
+      }
+    ],
+    "other": "",
+    "tier": "Medium",
+    "area": "Karamja",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "653",
+    "name": "Catch 50 Salmon",
+    "description": "Catch 50 Salmon",
+    "clientSortId": "96",
+    "skills": [
+      {
+        "skill": "Fishing",
+        "level": "30"
+      }
+    ],
+    "other": "",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Fishing Equipment"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "NEW_97",
+    "name": "Get slayer task from Duradel",
+    "description": "Get slayer task from Duradel",
+    "clientSortId": "97",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_98",
+    "name": "Recieve a Slayer Task",
+    "description": "Recieve a Slayer Task",
+    "clientSortId": "98",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_99",
+    "name": "Equip spiny helm",
+    "description": "Equip spiny helm",
+    "clientSortId": "99",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "626",
+    "name": "Check Your Slayer Task",
+    "description": "Slayer gem",
+    "clientSortId": "100",
+    "skills": [],
+    "other": "1 to purchase an enchanted gem",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "649",
+    "name": "Catch a Herring",
+    "description": "Catch a Raw Herring whilst Fishing.",
+    "clientSortId": "101",
+    "skills": [
+      {
+        "skill": "Fishing",
+        "level": "10"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Fishing Equipment"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "998",
+    "name": "Fill a Crate With Bananas",
+    "description": "Fill a crate with Bananas for Luthas at Musa Point.",
+    "clientSortId": "102",
+    "skills": [],
+    "other": "",
+    "tier": "Medium",
+    "area": "Karamja",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "970",
+    "name": "Defeat a TzHaar",
+    "description": "Defeat any TzHaar in Mor Ul Rek.",
+    "clientSortId": "103",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Karamja",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": "TzHaar"
+  },
+  {
+    "id": "NEW_104",
+    "name": "Reach 10 Combat",
+    "description": "Happens @ 13 magic",
+    "clientSortId": "104",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "509",
+    "name": "Reach Total Level 100",
+    "description": "Reach a Total Level of 100.",
+    "clientSortId": "105",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_106",
+    "name": "We're returning back to varrock after this, to go finish up some thieving/agility grinds. Along with some quests we can probably do now.",
+    "description": "We're returning back to varrock after this, to go finish up some thieving/agility grinds. Along with some quests we can probably do now.",
+    "clientSortId": "106",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "815",
+    "name": "Complete Gertrude's Cat",
+    "description": "Complete the Gertrude's Cat quest.",
+    "clientSortId": "107",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1880",
+    "name": "Complete the Varrock Agility Course",
+    "description": "Complete a lap of the Varrock Rooftop Agility Course.",
+    "clientSortId": "108",
+    "skills": [
+      {
+        "skill": "Agility",
+        "level": "30"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3210,
+      "y": 3424,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1881",
+    "name": "Complete 10 Laps of the Varrock Agility Course",
+    "description": "Complete 10 laps of the Varrock Rooftop Agility Course.",
+    "clientSortId": "109",
+    "skills": [
+      {
+        "skill": "Agility",
+        "level": "30"
+      }
+    ],
+    "other": "",
+    "tier": "Medium",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 3210,
+      "y": 3424,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "697",
+    "name": "Complete 50 Laps of a Rooftop Agility Course",
+    "description": "Complete 50 laps of any Rooftop Agility Course.",
+    "clientSortId": "110",
+    "skills": [],
+    "other": "",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "502",
+    "name": "Achieve Your First Level 40",
+    "description": "Reach level 40 in any skill.",
+    "clientSortId": "111",
+    "skills": [],
+    "other": " ",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "503",
+    "name": "Achieve Your First Level 50",
+    "description": "Reach level 50 in any skill.",
+    "clientSortId": "112",
+    "skills": [],
+    "other": "",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "582",
+    "name": "Pickpocket a Guard",
+    "description": "Pickpocket a Guard.",
+    "clientSortId": "113",
+    "skills": [
+      {
+        "skill": "Thieving",
+        "level": "40"
+      }
+    ],
+    "other": "",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "583",
+    "name": "Obtain 800 Coins From Coin Pouches At Once",
+    "description": "Open a stack of Coin Pouches and obtain at least 800 Coins.",
+    "clientSortId": "114",
+    "skills": [
+      {
+        "skill": "Thieving",
+        "level": "40"
+      }
+    ],
+    "other": "",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "655",
+    "name": "Smelt a Bronze Bar",
+    "description": "Use a Furnace to smelt a Bronze Bar.",
+    "clientSortId": "115",
+    "skills": [],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1731",
+    "name": "Smith a Bronze full helm",
+    "description": "Use an Anvil to smith a Bronze full helm",
+    "clientSortId": "116",
+    "skills": [
+      {
+        "skill": "Smithing",
+        "level": "7"
+      }
+    ],
+    "other": " ",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1732",
+    "name": "Smith a Bronze plateskirt",
+    "description": "Use an Anvil to smith a Bronze plateskirt",
+    "clientSortId": "117",
+    "skills": [
+      {
+        "skill": "Smithing",
+        "level": "16"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "1685",
+    "name": "Pan for an Uncut Jade",
+    "description": "Pan for an Uncut Jade",
+    "clientSortId": "118",
+    "skills": [],
+    "other": "",
+    "tier": "Medium",
+    "area": "Misthalin",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [
+      "Chisel"
+    ],
+    "NPC": null
+  },
+  {
+    "id": "313",
+    "name": "Restore 5 Prayer Points at an Altar",
+    "description": "Restore 5 or more Prayer Points at any altar.",
+    "clientSortId": "119",
+    "skills": [
+      {
+        "skill": "Prayer",
+        "level": "5"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "510",
+    "name": "Reach Total Level 250",
+    "description": "Reach a Total Level of 250.",
+    "clientSortId": "120",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_121",
+    "name": "Use the leagues UI to tp to brimhaven, Return to brimhaven to do POH  tasks now that we have a POH",
+    "description": "Use the leagues UI to tp to brimhaven, Return to brimhaven to do POH  tasks now that we have a POH",
+    "clientSortId": "121",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "969",
+    "name": "Enter your Player Owned House",
+    "description": "Enter your Player Owned House.",
+    "clientSortId": "122",
+    "skills": [],
+    "other": "Purchased a player-owned house previously for 1,000 or completed the miniquest  Daddy's Home",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "665",
+    "name": "Build a Room in Your Player Owned House",
+    "description": "Build a room in your Player Owned House.",
+    "clientSortId": "123",
+    "skills": [],
+    "other": "5000 gp(build a kitchen)",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "668",
+    "name": "Build an Oak Larder",
+    "description": "Build an Oak Larder in a Kitchen in your Player Owned House.",
+    "clientSortId": "124",
+    "skills": [
+      {
+        "skill": "Construction",
+        "level": "33"
+      }
+    ],
+    "other": "8 Oak Planks",
+    "tier": "Medium",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  },
+  {
+    "id": "NEW_125",
+    "name": "-> STAGE -> TWO ->",
+    "description": "-> STAGE -> TWO ->",
+    "clientSortId": "125",
+    "skills": [],
+    "other": "",
+    "tier": "Easy",
+    "area": "General",
+    "worldPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "requiredItems": [],
+    "NPC": null
+  }
+]
