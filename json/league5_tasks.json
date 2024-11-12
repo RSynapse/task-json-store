@@ -34,7 +34,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_3",
+      "id": "1501",
       "name": "Claim items from sage ",
       "description": "Claim items from sage ",
       "clientSortId": "3",
@@ -51,7 +51,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_4",
+      "id": "1502",
       "name": "Settings adjust",
       "description": "Turn off roof & disable level up interface",
       "clientSortId": "4",
@@ -225,7 +225,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_14",
+      "id": "1504",
       "name": "Supply Run",
       "description": "Buy pot, bucket, hammer, shears, chisel, knife, steel axe",
       "clientSortId": "14",
@@ -242,7 +242,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_15",
+      "id": "1505",
       "name": "Grab two onions",
       "description": "(This is for yellow dye needed later to dye red cape orange)",
       "clientSortId": "15",
@@ -310,7 +310,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_19",
+      "id": "1519",
       "name": "Cry in wheat field",
       "description": "Cry in wheat field",
       "clientSortId": "19",
@@ -361,7 +361,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_22",
+      "id": "1522",
       "name": "Grab an egg for cook assist",
       "description": "Grab an egg for cook assist",
       "clientSortId": "22",
@@ -378,7 +378,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_23",
+      "id": "1523",
       "name": "Use Range in Lumbridge Castle",
       "description": "Use the Range in Lumbridge Castle to cook some food.",
       "clientSortId": "23",
@@ -395,7 +395,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_24",
+      "id": "1524",
       "name": "Complete cooks asisstant",
       "description": "Complete cooks asisstant",
       "clientSortId": "24",
@@ -446,7 +446,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_27",
+      "id": "1527",
       "name": "Supply Run Pt 2",
       "description": "Buy wines @ Draynor for food, also purchase barely seeds  for later task.",
       "clientSortId": "27",
@@ -599,7 +599,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_36",
+      "id": "1536",
       "name": "Go to Edgeville (DKR)",
       "description": "Go to Edgeville (DKR)",
       "clientSortId": "36",
@@ -616,7 +616,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_37",
+      "id": "1537",
       "name": "Stronghold Security f/10k",
       "description": "Stronghold Security f/10k",
       "clientSortId": "37",
@@ -633,7 +633,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_38",
+      "id": "1538",
       "name": "Wear fancy boots",
       "description": "Wear fancy boots",
       "clientSortId": "38",
@@ -650,7 +650,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_39",
+      "id": "1539",
       "name": "Buy Steel Full helm",
       "description": "Barb helm shop",
       "clientSortId": "39",
@@ -667,7 +667,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_40",
+      "id": "1540",
       "name": "Buy fire staff",
       "description": "Equip elemental staff",
       "clientSortId": "40",
@@ -684,7 +684,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_41",
+      "id": "1541",
       "name": "Buy a red cape",
       "description": "This is so we can dye it orange later for task.",
       "clientSortId": "41",
@@ -723,7 +723,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_43",
+      "id": "1543",
       "name": "Purchase runes + rune mysteries",
       "description": "Buy strike runes",
       "clientSortId": "43",
@@ -774,7 +774,7 @@
       "NPC": "Stray Dog"
   },
   {
-      "id": "NEW_46",
+      "id": "1546",
       "name": "Feed Stray Dog bones",
       "description": "Feed Stray Dog bones",
       "clientSortId": "46",
@@ -791,7 +791,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_47",
+      "id": "1547",
       "name": "Purchase POH",
       "description": "1k GP",
       "clientSortId": "47",
@@ -904,7 +904,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_55",
+      "id": "1555",
       "name": "Pick 3 redberry's",
       "description": "This is for red dye so we can red cape orange w/yellow dye mix.",
       "clientSortId": "55",
@@ -921,7 +921,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_52",
+      "id": "1552",
       "name": "Chop logs with a Steel Axe",
       "description": "Chop Some logs with a Steel Axe",
       "clientSortId": "52",
@@ -979,7 +979,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_56",
+      "id": "1556",
       "name": "Fletch 1000 arrow shafts (OPTIONAL)",
       "description": "Fletch 1000 arrow shafts",
       "clientSortId": "56",
@@ -1001,7 +1001,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_58",
+      "id": "1558",
       "name": "Go to Fossil Island",
       "description": "(already over here, may as well.)",
       "clientSortId": "58",
@@ -1018,7 +1018,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_59",
+      "id": "1559",
       "name": "Pet dog on fossil island",
       "description": "(already over here, may as well.)",
       "clientSortId": "59",
@@ -1071,7 +1071,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_62",
+      "id": "1562",
       "name": "Rake a Farming Patch * 2 f/3 farm @ Champions guild",
       "description": "Rake any Farming patch, pay the guy near tree in varrock for rake",
       "clientSortId": "62",
@@ -1093,7 +1093,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_63",
+      "id": "1563",
       "name": "Plant hops running toward draynor AND pay farmer the 3 compost for task.",
       "description": "Talk to farmer and purchase 4X compost as well + seed dibbler",
       "clientSortId": "63",
@@ -1127,7 +1127,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_65",
+      "id": "1565",
       "name": "TP back to lumbridge with home tele, head west of lumbridge, stop by HAM hideout, head to wizard's tower to finish rune mysteries and then up to draynor, steal wines till master farmer here.",
       "description": "TP back to lumbridge with home tele, head west of lumbridge, stop by HAM hideout, head to wizard's tower to finish rune mysteries and then up to draynor, steal wines till master farmer here.",
       "clientSortId": "65",
@@ -1185,7 +1185,7 @@
       "NPC": "H.A.M. Member"
   },
   {
-      "id": "NEW_68",
+      "id": "1568",
       "name": "Clean a Guam",
       "description": "Clean a Guam",
       "clientSortId": "68",
@@ -1253,7 +1253,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_72",
+      "id": "1572",
       "name": "Mine 25 Essence",
       "description": "Mine 25 Essence",
       "clientSortId": "72",
@@ -1489,7 +1489,7 @@
       "NPC": "Master Farmer"
   },
   {
-      "id": "NEW_84",
+      "id": "1984",
       "name": "Pickpocket a Rannar",
       "description": "Pickpocket a Rannar",
       "clientSortId": "84",
@@ -1506,7 +1506,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_85",
+      "id": "1985",
       "name": "tp to brimhaven, Keep a sardine for gertrude's cat later",
       "description": "tp to brimhaven, Keep a sardine for gertrude's cat later",
       "clientSortId": "85",
@@ -1523,7 +1523,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_86",
+      "id": "1986",
       "name": "Kill moss giant",
       "description": "NW of brimhaven mossy island.",
       "clientSortId": "86",
@@ -1635,7 +1635,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_92",
+      "id": "3092",
       "name": "Take the cart to shilo",
       "description": "| Buy bait, Feathers, Bronze bars",
       "clientSortId": "92",
@@ -1739,7 +1739,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_97",
+      "id": "3097",
       "name": "Get slayer task from Duradel",
       "description": "Get slayer task from Duradel",
       "clientSortId": "97",
@@ -1756,7 +1756,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_98",
+      "id": "3098",
       "name": "Recieve a Slayer Task",
       "description": "Recieve a Slayer Task",
       "clientSortId": "98",
@@ -1773,7 +1773,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_99",
+      "id": "3099",
       "name": "Equip spiny helm",
       "description": "Equip spiny helm",
       "clientSortId": "99",
@@ -1865,7 +1865,7 @@
       "NPC": "TzHaar"
   },
   {
-      "id": "NEW_104",
+      "id": "3104",
       "name": "Reach 10 Combat",
       "description": "Happens @ 13 magic",
       "clientSortId": "104",
@@ -1899,7 +1899,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_106",
+      "id": "3106",
       "name": "We're returning back to varrock after this, to go finish up some thieving/agility grinds. Along with some quests we can probably do now.",
       "description": "We're returning back to varrock after this, to go finish up some thieving/agility grinds. Along with some quests we can probably do now.",
       "clientSortId": "106",
@@ -2191,7 +2191,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_121",
+      "id": "3121",
       "name": "Use the leagues UI to tp to brimhaven, Return to brimhaven to do POH  tasks now that we have a POH",
       "description": "Use the leagues UI to tp to brimhaven, Return to brimhaven to do POH  tasks now that we have a POH",
       "clientSortId": "121",
@@ -2264,7 +2264,7 @@
       "NPC": null
   },
   {
-      "id": "NEW_125",
+      "id": "3125",
       "name": "-> STAGE -> TWO ->",
       "description": "-> STAGE -> TWO ->",
       "clientSortId": "125",
